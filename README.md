@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BrunoTillmann
+- 👋 Olá eu meu nome é @BrunoTillmann
 - :trollface: Eu estou interessado em aprender programação 
-- 🌱 Estou aprendendo atualmente  
-- 💞️ Procuro ajudar pessoas futuramente
+- :electron: Estou aprendendo atualmente  
+- :shipit: Estou colaborando com @Chuchene 
 - 📫 Meu contato bruno.tillmann.pinto@escola.pr.gov.br
 
 <!---
