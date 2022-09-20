@@ -1,4 +1,4 @@
-- 👋 Olá eu meu nome é @BrunoTillmann
+- :neckbeard: Olá eu meu nome é @BrunoTillmann
 - :trollface: Eu estou interessado em aprender programação 
 - :electron: Estou aprendendo atualmente  
 - :shipit: Estou colaborando com @Chuchene 
